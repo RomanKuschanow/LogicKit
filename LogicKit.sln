@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35111.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolCore", "BoolCore\BoolCore.csproj", "{80AD2C83-9CAD-449C-8F30-051BF670F9B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{5A106FBF-F14D-41C5-A55B-E4378A949453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80AD2C83-9CAD-449C-8F30-051BF670F9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AD2C83-9CAD-449C-8F30-051BF670F9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AD2C83-9CAD-449C-8F30-051BF670F9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AD2C83-9CAD-449C-8F30-051BF670F9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F7FBF72-1EA7-467E-A3A0-8D9475152BF7}
+	EndGlobalSection
+EndGlobal
